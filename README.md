@@ -1,4 +1,0 @@
-disposableweek
-==============
-
-Disposable Week
